@@ -1,4 +1,4 @@
-## Entropic approximation of the Nested Distance
+## Entropic regularization of the Nested Distance
 
 Computes on an interactive example the Nested Distance and the Entropic Nested Distance between two scenario trees of depth $T$.
 
